@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Swiss Army Knife</string>
+    <string name="app_version">Version: v6.9, 3/23/2018</string>
+    <string name="button_spam">Spam app</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="button_bluetooth_sniffer">Bluetooth sniffer</string>
+    <string name="txt_phone_hint">Phone number</string>
+    <string name="txt_text_message_hint">Text message to send</string>
+    <string name="button_send_message">Spam message</string>
+    <string name="txt_message_count">How many times to send</string>
+    <string name="connect">Connect</string>
+    <string name="scan">Scan</string>
+</resources>
